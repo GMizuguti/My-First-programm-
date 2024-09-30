@@ -6,7 +6,7 @@ There is something wrong with the float values, but I couldnt figure it out. Whe
 Meu primeiro programa=. Quando escrevi isso, só Deus e eu sabíamos como funcionava. Agora, só Deus sabe.
 Primeira vez usando funções e ponteiros. Código spaghetti. Um desastre completo. Pesadelo, pesadelo, pesadelo, pesadelo, pesadelo, pesadelo.
 Eu fui direto do "Hello World" para isso, definitivamente mordi mais do que podia mastigar.
-Tem algo errado com os valores de ponto flutuante, mas eu não consegui descobrir quando escrevi pela primeira vez.
+Tem algo errado com os valores quebrados, mas quando escrevi da primeira vez funcionavam, provavelmente mexi em alguma coisa sem querer em algum momento.
 
 
 # How to run
